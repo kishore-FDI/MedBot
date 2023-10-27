@@ -54,6 +54,9 @@ For any technical issues or inquiries, you can contact us at kishore22705@gmail.
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
-<p><h3>Please Leave your feedback here <3</h3>https://docs.google.com/forms/d/e/1FAIpQLSemi4TUvYMr6h_sVUhWRlJ42CbltDN7WeRbhsMj4UhyP_3sIw/viewform?usp=sf_link</p>
+<div>
+<p><h3>Please Leave your feedback here <3</h3>https://docs.google.com/forms/d/e/1FAIpQLSemi4TUvYMr6h_sVUhWRlJ42CbltDN7WeRbhsMj4UhyP_3sIw/viewform?usp=sf_link</p>  
+  </div>
 ---
+
 Enjoy using the Medical ChatBot, and stay informed about your health and medical concerns with the power of AI and natural language understanding!
